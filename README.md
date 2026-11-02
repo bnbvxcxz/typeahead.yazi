@@ -21,7 +21,7 @@ ya pkg add nottucks/typeahead
 Or clone manually into your plugins directory:
 
 ```bash
-git clone [https://github.com/nottucks/typeahead.yazi.git](https://github.com/nottucks/typeahead.yazi.git) ~/.config/yazi/plugins/typeahead.yazi
+git clone https://github.com/nottucks/typeahead.yazi.git ~/.config/yazi/plugins/typeahead.yazi
 ```
 
 ## Configuration
